@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	margin-top: 60px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+p,
+button {
+	cursor: pointer;
+}
+
+.strike {
+	text-decoration: line-through;
+}
+
+.invisible {
+	display: none;
+}
